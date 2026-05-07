@@ -100,7 +100,7 @@ df['within_sla'] = df['COMPUTED RESPONSE TIME'] <= 480
 
 # =========================
 # SIDEBAR FILTERS
-# =========================
+# ======================
 with st.sidebar:
     st.image("logo.jpg", width=100)
     st.header("Dashboard Filters")
