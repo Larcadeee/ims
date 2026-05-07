@@ -1,0 +1,1295 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.530367,
+          8.933611
+        ]
+      },
+      "properties": {
+        "Name": "Villa Kananga",
+        "Name (BUTUAN CITY)": "Villa Kananga",
+        "Urban/Rural": "Urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.544629,
+          8.948054
+        ]
+      },
+      "properties": {
+        "Name": "Urduja Poblacion (Barangay 9)",
+        "Name (BUTUAN CITY)": "Urduja Poblacion (Barangay 9)",
+        "Urban/Rural": "Urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.524971,
+          8.804146
+        ]
+      },
+      "properties": {
+        "Name": "Tungao",
+        "Name (BUTUAN CITY)": "Tungao",
+        "Urban/Rural": "Urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.581379,
+          8.971691
+        ]
+      },
+      "properties": {
+        "Name": "Tiniwisan",
+        "Name (BUTUAN CITY)": "Tiniwisan",
+        "Urban/Rural": "Urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.536596,
+          8.948977
+        ]
+      },
+      "properties": {
+        "Name": "Tandang Sora Poblacion (Barangay 12)",
+        "Name (BUTUAN CITY)": "Tandang Sora Poblacion (Barangay 12)",
+        "Urban/Rural": "Urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.634337,
+          8.936859
+        ]
+      },
+      "properties": {
+        "Name": "Taligaman",
+        "Name (BUTUAN CITY)": "Taligaman",
+        "Urban/Rural": "Urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.627265,
+          8.977927
+        ]
+      },
+      "properties": {
+        "Name": "Taguibo",
+        "Name (BUTUAN CITY)": "Taguibo",
+        "Urban/Rural": "Urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.570742,
+          8.903555
+        ]
+      },
+      "properties": {
+        "Name": "Tagabaca",
+        "Name (BUTUAN CITY)": "Tagabaca",
+        "Urban/Rural": "Rural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.610109,
+          8.987853
+        ]
+      },
+      "properties": {
+        "Name": "Sumilihon",
+        "Name (BUTUAN CITY)": "Sumilihon",
+        "Urban/Rural": "Rural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.630737,
+          8.831278
+        ]
+      },
+      "properties": {
+        "Name": "Sumile",
+        "Name (BUTUAN CITY)": "Sumile",
+        "Urban/Rural": "Rural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.545188,
+          8.946737
+        ]
+      },
+      "properties": {
+        "Name": "Silongan Poblacion (Barangay 5)",
+        "Name (BUTUAN CITY)": "Silongan Poblacion (Barangay 5)",
+        "Urban/Rural": "Urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.543356,
+          8.948864
+        ]
+      },
+      "properties": {
+        "Name": "Sikatuna Poblacion (Barangay 10)",
+        "Name (BUTUAN CITY)": "Sikatuna Poblacion (Barangay 10)",
+        "Urban/Rural": "Urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.625254,
+          9.03621
+        ]
+      },
+      "properties": {
+        "Name": "Santo Ni\u00f1o",
+        "Name (BUTUAN CITY)": "Santo Ni\u00f1o",
+        "Urban/Rural": "Rural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.551201,
+          8.910275
+        ]
+      },
+      "properties": {
+        "Name": "San Vicente",
+        "Name (BUTUAN CITY)": "San Vicente",
+        "Urban/Rural": "Urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.579942,
+          8.791606
+        ]
+      },
+      "properties": {
+        "Name": "San Mateo",
+        "Name (BUTUAN CITY)": "San Mateo",
+        "Urban/Rural": "Rural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.540965,
+          8.953501
+        ]
+      },
+      "properties": {
+        "Name": "San Ignacio Poblacion (Barangay 15)",
+        "Name (BUTUAN CITY)": "San Ignacio Poblacion (Barangay 15)",
+        "Urban/Rural": "Urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.597783,
+          8.876259
+        ]
+      },
+      "properties": {
+        "Name": "Salvacion",
+        "Name (BUTUAN CITY)": "Salvacion",
+        "Urban/Rural": "Rural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.544861,
+          8.945345
+        ]
+      },
+      "properties": {
+        "Name": "Rajah Soliman Poblacion (Barangay 4)",
+        "Name (BUTUAN CITY)": "Rajah Soliman Poblacion (Barangay 4)",
+        "Urban/Rural": "Urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.53855,
+          8.960667
+        ]
+      },
+      "properties": {
+        "Name": "Port Poyohon Poblacion (Barangay 17, New Asia)",
+        "Name (BUTUAN CITY)": "Port Poyohon Poblacion (Barangay 17, New Asia)",
+        "Urban/Rural": "Rural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.466336,
+          8.970607
+        ]
+      },
+      "properties": {
+        "Name": "Pinamanculan",
+        "Name (BUTUAN CITY)": "Pinamanculan",
+        "Urban/Rural": "Rural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.594711,
+          8.900547
+        ]
+      },
+      "properties": {
+        "Name": "Pigdaulan",
+        "Name (BUTUAN CITY)": "Pigdaulan",
+        "Urban/Rural": "Rural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.65816,
+          8.971233
+        ]
+      },
+      "properties": {
+        "Name": "Pianing",
+        "Name (BUTUAN CITY)": "Pianing",
+        "Urban/Rural": "Rural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.546408,
+          8.927245
+        ]
+      },
+      "properties": {
+        "Name": "Pangabugan",
+        "Name (BUTUAN CITY)": "Pangabugan",
+        "Urban/Rural": "Rural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.523021,
+          8.993756
+        ]
+      },
+      "properties": {
+        "Name": "Pagatpatan",
+        "Name (BUTUAN CITY)": "Pagatpatan",
+        "Urban/Rural": "Urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.539505,
+          8.956928
+        ]
+      },
+      "properties": {
+        "Name": "Ong Yiu Poblacion (Barangay 16)",
+        "Name (BUTUAN CITY)": "Ong Yiu Poblacion (Barangay 16)",
+        "Urban/Rural": "Urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.53965,
+          8.964003
+        ]
+      },
+      "properties": {
+        "Name": "Obrero Poblacion (Barangay 18)",
+        "Name (BUTUAN CITY)": "Obrero Poblacion (Barangay 18)",
+        "Urban/Rural": "Urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.481791,
+          8.858635
+        ]
+      },
+      "properties": {
+        "Name": "Nong-Nong",
+        "Name (BUTUAN CITY)": "Nong-Nong",
+        "Urban/Rural": "Rural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.53948,
+          8.946497
+        ]
+      },
+      "properties": {
+        "Name": "New Society Village Poblacion (Barangay 26)",
+        "Name (BUTUAN CITY)": "New Society Village Poblacion (Barangay 26)",
+        "Urban/Rural": "Urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.531736,
+          8.985139
+        ]
+      },
+      "properties": {
+        "Name": "Maug",
+        "Name (BUTUAN CITY)": "Maug",
+        "Urban/Rural": "Rural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.493441,
+          8.990076
+        ]
+      },
+      "properties": {
+        "Name": "Masao",
+        "Name (BUTUAN CITY)": "Masao",
+        "Urban/Rural": "Rural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.544044,
+          8.933385
+        ]
+      },
+      "properties": {
+        "Name": "Maon Poblacion (Barangay 1)",
+        "Name (BUTUAN CITY)": "Maon Poblacion (Barangay 1)",
+        "Urban/Rural": "Urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.534141,
+          8.803271
+        ]
+      },
+      "properties": {
+        "Name": "Manila de Bugabus",
+        "Name (BUTUAN CITY)": "Manila de Bugabus",
+        "Urban/Rural": "Rural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.609395,
+          8.763743
+        ]
+      },
+      "properties": {
+        "Name": "Mandamo",
+        "Name (BUTUAN CITY)": "Mandamo",
+        "Urban/Rural": "Rural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.617884,
+          8.852798
+        ]
+      },
+      "properties": {
+        "Name": "Maibu",
+        "Name (BUTUAN CITY)": "Maibu",
+        "Urban/Rural": "Rural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.546893,
+          8.963886
+        ]
+      },
+      "properties": {
+        "Name": "Mahogany Poblacion (Barangay 21)",
+        "Name (BUTUAN CITY)": "Mahogany Poblacion (Barangay 21)",
+        "Urban/Rural": "Urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.572169,
+          8.931548
+        ]
+      },
+      "properties": {
+        "Name": "Mahay",
+        "Name (BUTUAN CITY)": "Mahay",
+        "Urban/Rural": "Rural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.600938,
+          8.815716
+        ]
+      },
+      "properties": {
+        "Name": "Maguinda",
+        "Name (BUTUAN CITY)": "Maguinda",
+        "Urban/Rural": "Rural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.509737,
+          9.001682
+        ]
+      },
+      "properties": {
+        "Name": "Lumbocan",
+        "Name (BUTUAN CITY)": "Lumbocan",
+        "Urban/Rural": "Rural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.627993,
+          9.016043
+        ]
+      },
+      "properties": {
+        "Name": "Los Angeles",
+        "Name (BUTUAN CITY)": "Los Angeles",
+        "Urban/Rural": "Urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.536129,
+          8.951967
+        ]
+      },
+      "properties": {
+        "Name": "Limaha Poblacion (Barangay 14)",
+        "Name (BUTUAN CITY)": "Limaha Poblacion (Barangay 14)",
+        "Urban/Rural": "Urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.495097,
+          8.940521
+        ]
+      },
+      "properties": {
+        "Name": "Libertad",
+        "Name (BUTUAN CITY)": "Libertad",
+        "Urban/Rural": "Urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.542988,
+          8.95082
+        ]
+      },
+      "properties": {
+        "Name": "Leon Kilat Poblacion (Barangay 13)",
+        "Name (BUTUAN CITY)": "Leon Kilat Poblacion (Barangay 13)",
+        "Urban/Rural": "Urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.599056,
+          8.938166
+        ]
+      },
+      "properties": {
+        "Name": "Lemon",
+        "Name (BUTUAN CITY)": "Lemon",
+        "Urban/Rural": "Rural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.536164,
+          8.946205
+        ]
+      },
+      "properties": {
+        "Name": "Lapu-Lapu Poblacion (Barangay 8)",
+        "Name (BUTUAN CITY)": "Lapu-Lapu Poblacion (Barangay 8)",
+        "Urban/Rural": "Urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.520479,
+          8.906364
+        ]
+      },
+      "properties": {
+        "Name": "Kinamlutan",
+        "Name (BUTUAN CITY)": "Kinamlutan",
+        "Urban/Rural": "Rural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.536868,
+          8.941181
+        ]
+      },
+      "properties": {
+        "Name": "Jose Rizal Poblacion (Barangay 25)",
+        "Name (BUTUAN CITY)": "Jose Rizal Poblacion (Barangay 25)",
+        "Urban/Rural": "Urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.531406,
+          8.941944
+        ]
+      },
+      "properties": {
+        "Name": "Imadejas Poblacion (Barangay 24)",
+        "Name (BUTUAN CITY)": "Imadejas Poblacion (Barangay 24)",
+        "Urban/Rural": "Urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.543147,
+          8.949712
+        ]
+      },
+      "properties": {
+        "Name": "Humabon Poblacion (Barangay 11)",
+        "Name (BUTUAN CITY)": "Humabon Poblacion (Barangay 11)",
+        "Urban/Rural": "Urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.530406,
+          8.95783
+        ]
+      },
+      "properties": {
+        "Name": "Holy Redeemer Poblacion (Barangay 23)",
+        "Name (BUTUAN CITY)": "Holy Redeemer Poblacion (Barangay 23)",
+        "Urban/Rural": "Urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.54202,
+          8.940761
+        ]
+      },
+      "properties": {
+        "Name": "Golden Ribbon Poblacion (Barangay 2)",
+        "Name (BUTUAN CITY)": "Golden Ribbon Poblacion (Barangay 2)",
+        "Urban/Rural": "Urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.60889,
+          8.781687
+        ]
+      },
+      "properties": {
+        "Name": "Florida",
+        "Name (BUTUAN CITY)": "Florida",
+        "Urban/Rural": "Rural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.465102,
+          8.930676
+        ]
+      },
+      "properties": {
+        "Name": "Dumalagan",
+        "Name (BUTUAN CITY)": "Dumalagan",
+        "Urban/Rural": "Rural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.542342,
+          8.834974
+        ]
+      },
+      "properties": {
+        "Name": "Dulag",
+        "Name (BUTUAN CITY)": "Dulag",
+        "Urban/Rural": "Rural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.522425,
+          8.956464
+        ]
+      },
+      "properties": {
+        "Name": "Doongan",
+        "Name (BUTUAN CITY)": "Doongan",
+        "Urban/Rural": "Urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.590391,
+          8.861745
+        ]
+      },
+      "properties": {
+        "Name": "Don Francisco",
+        "Name (BUTUAN CITY)": "Don Francisco",
+        "Urban/Rural": "Rural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.542321,
+          8.944814
+        ]
+      },
+      "properties": {
+        "Name": "Diego Silang Poblacion (Barangay 6)",
+        "Name (BUTUAN CITY)": "Diego Silang Poblacion (Barangay 6)",
+        "Urban/Rural": "Urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.644545,
+          8.9301
+        ]
+      },
+      "properties": {
+        "Name": "De Oro",
+        "Name (BUTUAN CITY)": "De Oro",
+        "Urban/Rural": "Rural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.575603,
+          8.756948
+        ]
+      },
+      "properties": {
+        "Name": "Dankias",
+        "Name (BUTUAN CITY)": "Dankias",
+        "Urban/Rural": "Rural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.537044,
+          8.9445
+        ]
+      },
+      "properties": {
+        "Name": "Dagohoy Poblacion (Barangay 7)",
+        "Name (BUTUAN CITY)": "Dagohoy Poblacion (Barangay 7)",
+        "Urban/Rural": "Urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.618096,
+          8.887371
+        ]
+      },
+      "properties": {
+        "Name": "Camayahan",
+        "Name (BUTUAN CITY)": "Camayahan",
+        "Urban/Rural": "Rural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.579883,
+          8.992813
+        ]
+      },
+      "properties": {
+        "Name": "Cabcabon",
+        "Name (BUTUAN CITY)": "Cabcabon",
+        "Urban/Rural": "Rural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.548884,
+          8.944044
+        ]
+      },
+      "properties": {
+        "Name": "Buhangin Poblacion (Barangay 19)",
+        "Name (BUTUAN CITY)": "Buhangin Poblacion (Barangay 19)",
+        "Urban/Rural": "Urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.656479,
+          8.954315
+        ]
+      },
+      "properties": {
+        "Name": "Bugsukan",
+        "Name (BUTUAN CITY)": "Bugsukan",
+        "Urban/Rural": "Rural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.565499,
+          8.814843
+        ]
+      },
+      "properties": {
+        "Name": "Bugabus",
+        "Name (BUTUAN CITY)": "Bugabus",
+        "Urban/Rural": "Rural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.503857,
+          8.912689
+        ]
+      },
+      "properties": {
+        "Name": "Bonbon",
+        "Name (BUTUAN CITY)": "Bonbon",
+        "Urban/Rural": "Urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.563529,
+          8.983477
+        ]
+      },
+      "properties": {
+        "Name": "Bobon",
+        "Name (BUTUAN CITY)": "Bobon",
+        "Urban/Rural": "Rural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.507182,
+          8.844207
+        ]
+      },
+      "properties": {
+        "Name": "Bitan-agan",
+        "Name (BUTUAN CITY)": "Bitan-agan",
+        "Urban/Rural": "Rural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.509071,
+          8.889239
+        ]
+      },
+      "properties": {
+        "Name": "Bit-os",
+        "Name (BUTUAN CITY)": "Bit-os",
+        "Urban/Rural": "Rural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.58987,
+          8.840145
+        ]
+      },
+      "properties": {
+        "Name": "Bilay",
+        "Name (BUTUAN CITY)": "Bilay",
+        "Urban/Rural": "Rural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.528185,
+          8.946991
+        ]
+      },
+      "properties": {
+        "Name": "Bayanihan Poblacion (Barangay 27)",
+        "Name (BUTUAN CITY)": "Bayanihan Poblacion (Barangay 27)",
+        "Urban/Rural": "Urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.623372,
+          8.926451
+        ]
+      },
+      "properties": {
+        "Name": "Basag",
+        "Name (BUTUAN CITY)": "Basag",
+        "Urban/Rural": "Rural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.576519,
+          9.027944
+        ]
+      },
+      "properties": {
+        "Name": "Baobaoan",
+        "Name (BUTUAN CITY)": "Baobaoan",
+        "Urban/Rural": "Rural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.553038,
+          8.970601
+        ]
+      },
+      "properties": {
+        "Name": "Banza",
+        "Name (BUTUAN CITY)": "Banza",
+        "Urban/Rural": "Urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.475936,
+          8.947073
+        ]
+      },
+      "properties": {
+        "Name": "Bancasi",
+        "Name (BUTUAN CITY)": "Bancasi",
+        "Urban/Rural": "Rural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.531205,
+          8.968439
+        ]
+      },
+      "properties": {
+        "Name": "Bading Poblacion (Barangay 22)",
+        "Name (BUTUAN CITY)": "Bading Poblacion (Barangay 22)",
+        "Urban/Rural": "Urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.512142,
+          8.972343
+        ]
+      },
+      "properties": {
+        "Name": "Babag",
+        "Name (BUTUAN CITY)": "Babag",
+        "Urban/Rural": "Rural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.549039,
+          8.952598
+        ]
+      },
+      "properties": {
+        "Name": "Baan Riverside Poblacion (Barangay 20)",
+        "Name (BUTUAN CITY)": "Baan Riverside Poblacion (Barangay 20)",
+        "Urban/Rural": "Urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.573403,
+          8.954715
+        ]
+      },
+      "properties": {
+        "Name": "Baan KM 3",
+        "Name (BUTUAN CITY)": "Baan KM 3",
+        "Urban/Rural": "Urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.557247,
+          8.88222
+        ]
+      },
+      "properties": {
+        "Name": "Aupagan",
+        "Name (BUTUAN CITY)": "Aupagan",
+        "Urban/Rural": "Rural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.625923,
+          8.944517
+        ]
+      },
+      "properties": {
+        "Name": "Antongalon",
+        "Name (BUTUAN CITY)": "Antongalon",
+        "Urban/Rural": "Rural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.669796,
+          9.011023
+        ]
+      },
+      "properties": {
+        "Name": "Anticala",
+        "Name (BUTUAN CITY)": "Anticala",
+        "Urban/Rural": "Rural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.611377,
+          8.958182
+        ]
+      },
+      "properties": {
+        "Name": "Ampayon",
+        "Name (BUTUAN CITY)": "Ampayon",
+        "Urban/Rural": "Urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.545919,
+          8.85518
+        ]
+      },
+      "properties": {
+        "Name": "Amparo",
+        "Name (BUTUAN CITY)": "Amparo",
+        "Urban/Rural": "Urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.500196,
+          8.970143
+        ]
+      },
+      "properties": {
+        "Name": "Ambago",
+        "Name (BUTUAN CITY)": "Ambago",
+        "Urban/Rural": "Urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.522349,
+          8.981232
+        ]
+      },
+      "properties": {
+        "Name": "Agusan Peque\u00f1o",
+        "Name (BUTUAN CITY)": "Agusan Peque\u00f1o",
+        "Urban/Rural": "Urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.544487,
+          8.94404
+        ]
+      },
+      "properties": {
+        "Name": "Agao Poblacion (Barangay 3)",
+        "Name (BUTUAN CITY)": "Agao Poblacion (Barangay 3)",
+        "Urban/Rural": "Urban"
+      }
+    }
+  ]
+}
